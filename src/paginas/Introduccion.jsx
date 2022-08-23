@@ -4,7 +4,7 @@ const Introduccion = () => {
   return (
     <div className="  h-screen  p-10 mr-60 row-auto">
       <h2 className="uppercase font-bold col-start-auto">
-        Que es la tecnología?
+        ¿Qué es la tecnología?
       </h2>
 
       <p className="mt-3 grid-column-start">
@@ -14,7 +14,7 @@ const Introduccion = () => {
         para el área IT.
       </p>
       <h3 className="font-bold mt-3">
-        Entonces qué es la Tecnología informática?
+        Entonces ¿Qué es la Tecnología informática?
       </h3>
       <p className="mt-3 ">
         "Es el estudio, diseño, desarrollo, innovación puesta en práctica, ayuda
