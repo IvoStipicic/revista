@@ -30,7 +30,7 @@ const Introduccion = () => {
         otros programas y aplicaciones. 
       </p>
       <p className="mt-3">
-        En el transcurso de esta revista veremos todo el ecosistema clave para poder desarrollar aplicaciones de calidad, viendo lenguajes, frameworks, entornos de desarrollo, bases de datos, siempre pensando con una cultura de DevOps. Si alguno de estos conceptos todavía no lo conoces, no te preocupes por eso que lo iremos viendo en el transcurso de la revista</p>
+        En el transcurso de esta revista veremos todo el ecosistema clave para poder desarrollar aplicaciones de calidad, viendo lenguajes, frameworks, entornos de desarrollo, bases de datos, siempre pensando con una cultura de DevOps. Si alguno de estos conceptos todavía no lo conoces, no te preocupes por eso, que lo iremos viendo en el transcurso de la revista.</p>
       <footer className="absolute inset-x-0 bottom-0 h-16 text-center text-xl fon-bold">
         <p className="">Autor: Ivo Stipicic</p>
         <p>
