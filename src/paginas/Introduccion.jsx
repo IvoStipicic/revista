@@ -27,9 +27,10 @@ const Introduccion = () => {
         desarrollo de software es una herramienta que sirve para generar código,
         en otras palabras, es un entorno utilizado por los developers para la
         construcción, mantenimiento, modificación. Además, de apoyar y/o depurar
-        otros programas y aplicaciones.
+        otros programas y aplicaciones. 
       </p>
-
+      <p>
+        En el transcurso de esta revista veremos todo el ecosistema clave para poder desarrollar aplicaciones de calidad, viendo lenguajes, frameworks, entornos de desarrollo, bases de datos, siempre con una cultura de DevOps. Si alguno de estos conceptos todavía no lo conoces, no te preocupes por ello que lo iremos viendo en el transcurso de la revista</p>
       <footer className="absolute inset-x-0 bottom-0 h-16 text-center text-xl fon-bold">
         <p className="">Autor: Ivo Stipicic</p>
         <p>
